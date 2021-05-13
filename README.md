@@ -1,6 +1,6 @@
 # Seguridad en Sistemas Informáticos 
 
-### Diffie y Hellman, Gamal Elíptico
+### Práctica 10. Diffie y Hellman, Gamal Elíptico
 
 * Autor: Saúl Pérez García
 
